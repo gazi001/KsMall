@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KsMall.Web", "KsMall.Web\KsMall.Web.csproj", "{701D1E94-2F03-4B95-B474-0EA37E48D8D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KsMall.Core", "KsMall.Core\KsMall.Core.csproj", "{F1470CDD-1456-4951-B99A-35FC11151484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KsMall.Domain", "KsMall.Domain\KsMall.Domain.csproj", "{B204AF50-542E-432B-AD81-94210679899E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701D1E94-2F03-4B95-B474-0EA37E48D8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701D1E94-2F03-4B95-B474-0EA37E48D8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701D1E94-2F03-4B95-B474-0EA37E48D8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701D1E94-2F03-4B95-B474-0EA37E48D8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1470CDD-1456-4951-B99A-35FC11151484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1470CDD-1456-4951-B99A-35FC11151484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1470CDD-1456-4951-B99A-35FC11151484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1470CDD-1456-4951-B99A-35FC11151484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B204AF50-542E-432B-AD81-94210679899E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B204AF50-542E-432B-AD81-94210679899E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B204AF50-542E-432B-AD81-94210679899E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B204AF50-542E-432B-AD81-94210679899E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
